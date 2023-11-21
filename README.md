@@ -1,2 +1,2 @@
 # hyp2c4e
-A Node package
+A Node.JS experimental project

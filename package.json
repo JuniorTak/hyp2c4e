@@ -1,7 +1,7 @@
 {
   "name": "hyp2c4e",
   "version": "1.0.0",
-  "description": "Test your connection internet by running the executable",
+  "description": "Test your internet connection by running the executable",
   "main": "index.js",
   "scripts": {
     "test": "ping 8.8.8.8 -t"

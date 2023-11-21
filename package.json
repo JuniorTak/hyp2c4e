@@ -1,0 +1,24 @@
+{
+  "name": "hyp2c4e",
+  "version": "1.0.0",
+  "description": "Test your connection internet by running the executable",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping 8.8.8.8 -t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuniorTak/hyp2c4e.git"
+  },
+  "keywords": [
+    "devops",
+    "packets",
+    "transmission",
+    "connection",
+    "internet",
+    "npm",
+    "MERN"
+  ],
+  "author": "Hyppolite Takoua Foduop <me@hyppolitetakouafoduop.online>",
+  "license": "ISC"
+}
